@@ -123,7 +123,7 @@ Oi, pessoal!
 │   Gold    │   [Delta Lake] Agregações, KPIs e tabelas de consumo para BI/Analytics
 └───────────┘
 ```
-![Print do Databricks](./img/delta.pgn)
+![Print do Databricks](/img/delta.png)
 
 
 * **Ferramentas:** Databricks Community Edition, PySpark, Delta Lake, SQL.
