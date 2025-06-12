@@ -186,9 +186,9 @@ Oi, pessoal!
 ## Análises Realizadas
 
 * **Pergunta 1:** Média de valor total (`total_amount`) recebido por mês, considerando todos os yellow táxis.
-![print da primeira análise - gold_mean_total.pgn](./img/gold_mean_total.png)
+![print da primeira análise - gold_mean_total.png](img/gold_mean_total.png)
 * **Pergunta 2:** Média de passageiros (`passenger_count`) por cada hora do dia no mês de maio.
-![print da segunda análise - gold_mean_total.pgn](./img/gold_mean_total.png)
+![print da segunda análise - gold_mean_passenger_hour.png](img/gold_mean_passenger_hour.png)
 
 ## Como Executar
 
